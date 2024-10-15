@@ -1,0 +1,6 @@
+['Condo for sale' 'House for sale' 'Townhouse for sale' 'Co-op for sale'
+ 'Multi-family home for sale']['Manhattan' 'New York County' 'Richmond County' 'Kings County' 'New York'
+ 'East Bronx' 'Brooklyn' 'The Bronx' 'Queens' 'Staten Island'
+ 'Queens County' 'Bronx County' 'Coney Island' 'Brooklyn Heights'
+ 'Jackson Heights' 'Riverdale' 'Rego Park' 'Fort Hamilton' 'Flushing'
+ 'Dumbo' 'Snyder Avenue']
